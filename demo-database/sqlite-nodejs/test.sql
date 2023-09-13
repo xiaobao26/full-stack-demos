@@ -1,5 +1,7 @@
 DROP TABLE IF EXISTS users;
+
 DROP TABLE IF EXISTS foo;
+
 DROP TABLE IF EXISTS bar;
 
 -- Create a user table
